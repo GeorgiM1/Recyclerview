@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VezbiFragments</string>
+    <string name="student">Student</string>
+    <string name="online_offline">Online/Offline</string>
+</resources>
