@@ -7,7 +7,7 @@ package com.example.android.vezbifragments.Model;
 public class Student {
     public String sName;
     public boolean sOnline;
-    public String url;
+    public String url ;
 
     public Student(String sName, boolean sOnline, String url) {
         this.sName = sName;
